@@ -1,0 +1,1 @@
+# show-hover-scrollbar-thumb
